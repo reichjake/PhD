@@ -1,0 +1,30 @@
+'q^2 >> m_l^2, the limit m_l -> 0 can be assumed' -> is this fine to do?
+
+
+
+- boost histogram 
+
+
+
+- evtgen
+- rapidsim
+
+- efficency q^2 and cos theta l (2d hist)
+
+
+- ^^ above, 2 histograms, one for q^2 reco and one for q^2 const
+
+- efficency = (q^2 with selections)/(eventgen rapidsim simulation of B+->K+ee (this is basically true q^2)) 
+
+- cant trust minuit uncertainties because we are on the border, this is why we use feldman-cousins
+
+- weighted fit: physics fit to data/eff, unweighted: physics*eff fit to data
+
+- don't install photos and taula
+- either change $LD_LIBRARY_PATH (move '/cvmfs/sft.cern.ch/lcg/views/LCG_97python3/x86_64-centos7-gcc9-opt/lib' to end)
+- specify directories of pythia (and evtgen?) in setup script
+- evtgen is reading from wrong lib directory
+
+- resolution constr q^2 for j/psi
+- how fit j/psi (and deal with weights) -> other paper (do they constrain to j/psi mass)
+- generate many more events

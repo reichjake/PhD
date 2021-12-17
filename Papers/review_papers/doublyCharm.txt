@@ -1,0 +1,64 @@
+
+
+
+3: doesn't test QCD. Maybe, effective theories
+
+39: this is not a sentence
+
+footnote on pg. 1: remove 'particle/'
+
+82: it's not quite the same because the decay is fully reconstructed in the reference, or if it is, mention that "this has also been found optimal for the partially reconstructed mode"
+
+101: ' signal and control' -> 'the signal and the control'
+
+Fig. 2: are the 3 bins to the left and 2 to the right of the Xi_c peak (red) in the TOS trigger category understood? - might just be a fluctuation, but it looks suspicious and might incdicate an under-estimation of the signal/overestimation of the background. Did you check that?
+
+Fig. 2: 'with fit results overlaid' -> 'with results of the fit overlaid'
+
+121: 'related to each other by the relative efficiency', could be clearer. Suggest to just write out exactly what is meant here (i.e. TOS/TIS)
+
+Are the yield ratios (e.g. equation 3) fit parameters?
+
+128: 'measure efficiencies' -> 'evaluate efficiencies'
+
+154: 'generated phase space' -> 'generated according to phase space'
+
+Table 1: reapeated 32, is this a copy-and-paste error or real?
+
+182: kinematic correction is too vague. Correction of what?
+
+189: 'cancel out' -> 'cancel'
+
+207: 'by any of the theoretical predictions' -> 'by any of the theoretical predictions'
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General comments:
+
+Why not include absolute branching fraction as well? 
+
+Consistency: control modes -> normalisation modes 
+Consistency: inner W-emisson -> internal W-emission
